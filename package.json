@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0"
+  },
+  "description": "backend test excercise",
+  "repository": "git@github.com:wnwarchdev/BooksApi.git",
+  "author": "Wojtek Nowak <billnewmann@gmail.com>"
 }
